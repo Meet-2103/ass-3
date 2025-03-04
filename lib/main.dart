@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:untitled/practice.dart';
 import 'package:untitled/presentation/screens/Home_Page.dart';
 
-import 'presentation/screens/Products.dart';
 
 void main(){
   runApp(MyApp());
